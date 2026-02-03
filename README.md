@@ -1,12 +1,12 @@
 # React Dashboard V1
 
-A modern, responsive administrative dashboard template built with React.js.
+A bold, atmospheric admin dashboard UI built with React.js.
 
 ## Features
-- Modular component architecture
-- Responsive sidebar navigation
-- Analytics cards components
-- Dark mode support
+- Polished layout with glassmorphism, gradients, and motion
+- KPI cards, alerts, revenue chart, and pipeline table
+- Responsive navigation and mobile-friendly grid stacking
+- Ready-to-extend components for real data sources
 
 ## Installation
 ```bash
